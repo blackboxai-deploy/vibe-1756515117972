@@ -1,0 +1,11 @@
+Šis ir testa dokuments.
+
+Tas satur vienkāršu tekstu, lai pārbaudītu dokumentu augšupielādes funkcionalitāti.
+
+Dokumentu menedžmenta sistēma var apstrādāt dažādus failu tipus:
+- PDF dokumenti
+- Microsoft Office faili 
+- Teksta faili
+- Attēli
+
+Sistēma nodrošina drošu glabāšanu un vieglu piekļuvi dokumentiem.
